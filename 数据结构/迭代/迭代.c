@@ -12,6 +12,10 @@ int forLoop(int n) {
 }
 
 //while—≠ª∑
+int whileLoop(int n){
+
+
+}
 
 
 
