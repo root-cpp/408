@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-//forÑ­»·
+//forå¾ªçŽ¯
 int forLoop(int n) {
     int res = 0;
 
@@ -11,9 +11,9 @@ int forLoop(int n) {
     printf("%d",res);
 }
 
-//whileÑ­»·
+//whileå¾ªçŽ¯
 int whileLoop(int n){
-
+    while
 
 }
 
